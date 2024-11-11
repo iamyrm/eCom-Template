@@ -475,6 +475,7 @@
     <div class="tab-pane p-0 fade" id="top-decor-tab" role="tabpanel" aria-labelledby="top-decor-link">
       <div class="products">
         <div class="row justify-content-center">
+          
           <div class="col-6 col-md-4 col-lg-3 col-xl-5col">
             <div class="product product-11 text-center">
               <figure class="product-media">
