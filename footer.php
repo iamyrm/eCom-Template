@@ -161,6 +161,8 @@
 <script src="assets/js/owl.carousel.min.js"></script>
 <script src="assets/js/wNumb.js"></script>
 <script src="assets/js/bootstrap-input-spinner.js"></script>
+<script src="assets/js/jquery.elevateZoom.min.js"></script>
+<script src="assets/js/bootstrap-input-spinner.js"></script>
 <script src="assets/js/jquery.plugin.min.js"></script>
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
 <script src="assets/js/jquery.countdown.min.js"></script>

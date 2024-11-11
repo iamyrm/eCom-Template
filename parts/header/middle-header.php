@@ -38,7 +38,7 @@
       </div><!-- End .compare-dropdown -->
 
       <div class="wishlist">
-        <a href="wishlist.html" title="Wishlist">
+        <a href="wishlist.php" title="Wishlist">
           <div class="icon">
             <i class="icon-heart-o"></i>
             <span class="wishlist-count badge">3</span>
