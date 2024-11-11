@@ -38,6 +38,9 @@
             <a href="shop.php">Shop</a>
           </li>
           <li class="">
+            <a href="blog.php">Blog</a>
+          </li>
+          <li class="">
             <a href="contact.php">Contact</a>
           </li>
           <li class="">
