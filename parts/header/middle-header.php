@@ -29,7 +29,7 @@
 
     <div class="header-right">
       <div class="account">
-        <a href="dashboard.html" title="My account">
+        <a href="dashboard.php" title="My account">
           <div class="icon">
             <i class="icon-user"></i>
           </div>
